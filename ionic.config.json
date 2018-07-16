@@ -1,0 +1,8 @@
+{
+  "name": "whooptag-mobile",
+  "app_id": "8cafc605",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
